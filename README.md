@@ -17,4 +17,5 @@ Welcome to the Pig Game, where you'll have a "rolling" good time! Here are the q
 ![image](https://github.com/anusha-2002/dice_game/assets/116163087/bf240584-8299-426d-8e43-aef0c177b1f3)
 
 
-
+You can try out this game from here
+https://6613e6ff36754c1363cbdee9--glowing-sprite-3f2e5c.netlify.app/
