@@ -18,4 +18,4 @@ Welcome to the Pig Game, where you'll have a "rolling" good time! Here are the q
 
 
 You can try out this game from here
-https://6613e6ff36754c1363cbdee9--glowing-sprite-3f2e5c.netlify.app/
+https://dicedazzle.netlify.app/
