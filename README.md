@@ -1,6 +1,6 @@
 Dice Dazzle: Rules of Fun!
 
-Welcome to Dice Dazzle, where the dice decides your destiny! Here are the quirky rules:
+Welcome to the Pig Game, where you'll have a "rolling" good time! Here are the quirky rules:
 
 🎲 Roll or Risk?: Each player gets a chance to roll the dice as many times as they dare. Oho, but beware! If the dice shows a 1, all your current points go bye-bye!☹️
 
